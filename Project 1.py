@@ -12,4 +12,4 @@ print(f'Gross pay: ${gross_pay: .2f}')
 print(f'Tax witheld: ${tax_witheld: .2f}')
 print(f'Net pay: ${net_pay: .2f}')
 
-Program =  'paycheck.py'
+
