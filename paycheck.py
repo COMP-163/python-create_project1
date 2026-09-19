@@ -1,5 +1,5 @@
-# Name:
-# Date:
+# Name: Zyan Telfair
+# Date: 9/14/26
 # Course: COMP 163
 # Project 1: Paycheck Calculator
 
